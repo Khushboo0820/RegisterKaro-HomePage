@@ -1,12 +1,40 @@
-# React + Vite
+# Register Karo - Homepage Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Demo: [register-karo-home-page-seven.vercel.app](https://register-karo-home-page-seven.vercel.app/)
 
-Currently, two official plugins are available:
+## ✨ Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a complete redesign and redevelopment of the homepage for [RegisterKaro.in](https://www.registerkaro.in).  
+The goal was to create a more modern, engaging, and responsive experience with clean design and subtle animations.
 
-## Expanding the ESLint configuration
+---
+## 📱 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔄 Fully responsive, mobile-first layout
+- ✨ Modern animations & interactions
+- 🎨 Clean, consistent design system with Tailwind
+- 💡 Smart use of layout, color, and typography
+- 🌐 SEO-friendly and performance optimized
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **Framer Motion** – for smooth animations
+- **Vite** – for lightning-fast dev experience
+- **Next.js** – for SSR/SSG 
+- **Deployed on Vercel**
+---
+
+## 🧪 How to Run Locally
+
+```bash
+git clone https://github.com/Khushboo0820/RegisterKaro-HomePage.git
+cd RegisterKaro-HomePage
+npm install
+npm run dev
+Runs locally at http://localhost:5173
+
+
