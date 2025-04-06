@@ -35,6 +35,6 @@ git clone https://github.com/Khushboo0820/RegisterKaro-HomePage.git
 cd RegisterKaro-HomePage
 npm install
 npm run dev
-Runs locally at http://localhost:5173
+Runs locally at [LocalHost](http://localhost:5173)
 
 
